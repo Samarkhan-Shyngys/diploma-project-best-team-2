@@ -1,6 +1,8 @@
 # Samarkhan Shyngys
 * Created PostgreSQL architcture
-* [diploma](https://user-images.githubusercontent.com/82603531/155956310-f78adfe3-9106-4193-a898-d51ec4a12061.png)
+file:///home/shyngys/Diplom/diploma.png![image](https://user-images.githubusercontent.com/82603531/155956935-190e40ed-8039-4889-9547-2d1bb816bbd2.png)
+
+
 * Created Spring boot project 
 # Jacky Chan!
 
